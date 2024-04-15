@@ -2,6 +2,8 @@
 
 take the below base64 encoded image text and copy and paste in converter at 
 
+
+Converter: 
 https://codebeautify.org/base64-to-image-converter#
 
 *************** make sure to erase any empty spaces at beginning of code after you paste it in decode window*****************
